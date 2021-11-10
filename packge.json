@@ -1,0 +1,15 @@
+{
+    "name": "docker-trial",
+    "main": "index.js",
+    "scripts":{
+        "build": "npm install",
+        "test": "mocha --exit",
+        "start": "node app.js"
+    },
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/itagarf/Docker-Trial.git",
+    }
+
+}
